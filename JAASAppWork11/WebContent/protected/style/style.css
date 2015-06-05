@@ -1,0 +1,33 @@
+body {
+	background-image: url(background.png);
+	background-repeat: repeat-x;
+	background-color: white;
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+}
+
+#mainBox {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	margin-top: 15%;
+	color: black;
+}
+
+#mainBox p {
+	font-size: large;
+	text-align: justify;
+}
+
+input,textarea {
+    background: white;
+    border: 1px solid #4b408c;
+    margin: 3px 0;
+    padding: 3px 3px;
+}
+label {
+	width: 10em;
+	display: block;
+	float: left;
+    margin: 5px 0;
+}
