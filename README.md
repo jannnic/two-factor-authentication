@@ -3,6 +3,8 @@ Two factor authentication(TOTP) implemented in Java EE with JAAS. Supports OpenL
 
 This is a java-module which offers two-factor-authentification with smartphone apps.
 
+You can either use the sources or the jar-File.
+
 To install the module on your Server u must configure two files.
 
 The first is the web.xml:
